@@ -1,5 +1,5 @@
 This C02 Certificate NFT Project helps users create NFT Collection and mint batch a number of NFT for their C02 Certificate.
-Please use Metamask and LP8 to use the product.
+Please use Metamask and LP16 to use the product.
 
 # Feature:
 - Create Collection

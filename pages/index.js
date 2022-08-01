@@ -44,8 +44,8 @@ export default function Home() {
   return (
     <Layout>
       <p>
-        Please use Metamask and config to LP8, the product has not yet supported
-        Universal Profile.
+        Please use Metamask and config to LP16, the product has not yet
+        supported Universal Profile.
       </p>
       <h3>1. Please create an C02 Certificate NFT Collection</h3>
       <Link route="/collections/new">

@@ -1,3 +1,16 @@
+This C02 Certificate NFT Project helps users create NFT Collection and mint batch a number of NFT for their C02 Certificate.
+Please use Metamask and LP8 to use the product.
+
+# Feature:
+- Create Collection
+- Mint Batch Certificate
+
+# To do: 
+- Transfer NFT
+- Support Universal Profile (UP)
+- Apply ERC725 to UP account to query collection created, assets owned/received.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
